@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/danya0ryaba/countries_toolkit.git/static/css/main.285b91d3.css",
+    "main.js": "/danya0ryaba/countries_toolkit.git/static/js/main.66c4db87.js",
+    "index.html": "/danya0ryaba/countries_toolkit.git/index.html",
+    "main.285b91d3.css.map": "/danya0ryaba/countries_toolkit.git/static/css/main.285b91d3.css.map",
+    "main.66c4db87.js.map": "/danya0ryaba/countries_toolkit.git/static/js/main.66c4db87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285b91d3.css",
+    "static/js/main.66c4db87.js"
+  ]
+}
